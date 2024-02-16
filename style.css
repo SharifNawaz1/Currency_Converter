@@ -19,6 +19,7 @@ body
     border-radius: 1rem;
     min-height: 45vh;
     width: 60vh;
+    margin: 20px 10px 20px 10px;
 }
 form{
     margin: 2rem 0 1rem 0;
